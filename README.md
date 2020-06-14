@@ -3,10 +3,10 @@ A controller written for the Arduino's Ringo bot to make it move into 1x1 square
 
 ## Instructions
 
-1) To set up your computer foruse with the Ringo robot, visit:http://www.plumgeek.com/getting-started.html
+1) To set up your computer foruse with the Ringo robot, Visit : http://www.plumgeek.com/getting-started.html
 2) Follow the instructions there before you plug the Ringo in - they will guide you through installing drivers,the Arduino IDE, and Ringo’s software libraries. I
 3) After finishing the setup process, scroll up to the navigation bar on the Getting Started page, and navigateto “Robots” > “Ringo” > “Ringo Software.”
-4) Visit:https://github.com/feilipu/Arduino_FreeRTOS_LibraryDownload the library and move to your Libraries folder where you installed the Ringo libraries.
+4) Visit : https://github.com/feilipu/Arduino_FreeRTOS_LibraryDownload the library and move to your Libraries folder where you installed the Ringo libraries.
 5) Import the code from the repository and run it throught Adruino IDE. 
 6) The Law control law used to implement the tasks:
     - I used the control law of PID. The reason to choose this control law was that it was easier to understand and implement and didn’t require a model. Also, it was already explained in the assignment.
