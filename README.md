@@ -1,6 +1,4 @@
 # Arduino-Ringo-Movement-Tasks
-A controller written for the Arduino's Ringo bot to make it move into 1x1 squares.  
-
 ## Instructions
 
 1) To set up your computer foruse with the Ringo robot, Visit : http://www.plumgeek.com/getting-started.html
